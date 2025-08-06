@@ -1,0 +1,9 @@
+{
+    "dbname": "mibig_structures",
+    "dbtype": "sqlite3",
+    "standardization": "fragment",
+    "removeHs": 1,
+    "useTautomerHashv2": 0,
+    "registerConformers": 0,
+    "cacheConnection": true
+}
